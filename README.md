@@ -36,4 +36,4 @@ class BlogPost extends Resource
 }
 ```
 
-If you would like finer grained control you can call `steps($value)` with a
+If you would like finer grained control you can call `step($value)` with the required value.
